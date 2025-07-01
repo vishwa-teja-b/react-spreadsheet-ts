@@ -1,7 +1,7 @@
-import React from "react";
+// import React from "react";
 import Tabs from "./components/Tabs";
 import Toolbar from "./components/Toolbar";
-import Spreadsheet from "./components/Spreadsheet";
+import Spreadsheet from "./components/SpreadSheet.tsx";
 
 function App() {
     return (
